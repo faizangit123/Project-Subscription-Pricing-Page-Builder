@@ -19,7 +19,7 @@ this project in detail, feel free to contact me.
 
 ---
 
-# 📊 Subscription Pricing Page Builder
+## 📊 Subscription Pricing Page Builder
 
 An **interactive Subscription Pricing Page Builder** built using **React, HTML, CSS, and JavaScript**.  
 This is a **frontend-only application** that allows users to create, customize, preview, and save pricing plans dynamically — without any backend or database.
